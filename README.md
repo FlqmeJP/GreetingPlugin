@@ -28,7 +28,7 @@
 ## Usage
 ### /greet 
 
-##Description
+## Description
 ### 'Hello World' can be sent to chat.
 
 ****Warning****
