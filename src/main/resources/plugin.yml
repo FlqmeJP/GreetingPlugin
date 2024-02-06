@@ -1,0 +1,11 @@
+name: Greeting
+version: '${project.version}'
+main: com.example.greeting.Greeting
+api-version: '1.20'
+author: FlqmeJP
+commands:
+  greet:
+    usage: /greet
+    description: hello world
+
+
