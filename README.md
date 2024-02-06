@@ -2,7 +2,7 @@
 
 #### This is the first plugin I have created that can run on a Minecraft server.
 
-<pr>
+<pre>
 ├─.idea
 ├─src
 │  └─main
@@ -23,7 +23,7 @@
         └─maven-compiler-plugin
             └─compile
                 └─default-compile
-</pr>
+</pre>
 
 ## Usage
 ### /greet 
