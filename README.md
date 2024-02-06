@@ -31,7 +31,7 @@
 ## Description
 ### 'Hello World' can be sent to chat.
 
-****Warning****
+## Warning
 ### Put the .jar file in the plugin folder
 
 
